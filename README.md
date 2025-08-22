@@ -38,6 +38,8 @@ This project covers:
 - Try more visualizations
 - Start a beginner ML model
 
+- https://manali07d.github.io/NEWCODINGbot/
+
 ---
 
 Thanks for checking out my work! Feedback and suggestions are always welcome. 😊
